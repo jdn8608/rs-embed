@@ -11,5 +11,4 @@ build/
 .mypy_cache/
 _gee_checks/
 exports/
-examples/**
 
